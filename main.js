@@ -1,2 +1,1 @@
-
-console.log("Hello, Partner 1 was here")
+console.log("Hello, Partner 1 was here") // I'm big stupid and we switch p1 and p2. Doesn't really matter though.
